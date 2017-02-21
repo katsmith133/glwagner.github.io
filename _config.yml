@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           :
+  github           : "glwagner"
   google_plus      :
   keybase          :
   instagram        : "gl.wagner"
@@ -171,8 +171,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 0 # amount of posts to show
-paginate_path: /page:num/
+paginate: 10 # amount of posts to show
+paginate_path: /blog/page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -185,7 +185,7 @@ gems:
   - jemoji
 
 
-# mimic GitHub Pages with --safe
+# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
