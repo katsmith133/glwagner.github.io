@@ -3,4 +3,8 @@ title: Stuff I'm thinking about
 permalink: /projects/
 ---
 
-Coming soon.
+# Abyssal mixing.
+
+# Waves and flow.
+
+# Low Reynolds number fluid dynamics.
