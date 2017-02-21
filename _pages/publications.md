@@ -3,21 +3,34 @@ title: Stuff that's published
 permalink: /publications/
 ---
 
-# Stuff that's published
-
 ## [My doctoral dissertation][]
 
 ## Journal publications
 
-0. [An asymptotic model for the slow evolution of internal tides in quasi-geostrophic flow][8]
-0. [A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][7]
-0. [A tale of two spicy seas][6]
-0. [Available potential vorticity and wave-averaged quasi-geostrophic flow][5]
-0. [Mixing by microorganisms in stratified fluids][4]
-0. [Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]
-0. [Crawling scallop: Friction-based locomotion with one degree of freedom][2]
-0. [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]
-{: reversed="reversed"}
+[An asymptotic model for the slow evolution of internal tides in quasi-geostrophic flow][8]
+**Journal of Fluid Mechanics**, *submitted*
+
+[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][7]
+**Journal of Fluid Mechanics**, *2016*
+
+[A tale of two spicy seas][6]
+**Oceanography**, *2016*
+
+[Available potential vorticity and wave-averaged quasi-geostrophic flow][5]
+**Journal of Fluid Mechanics**, *2015*
+
+[Mixing by microorganisms in stratified fluids][4]
+**Journal of Marine Research**, *2014*
+
+[Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]
+**Langmuir**, *2014*
+
+[Crawling scallop: Friction-based locomotion with one degree of freedom][2]
+**Journal of Theoretical Biology**, *2013*
+
+[Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]
+**AIAA/ASME/SAE/ASEE Jount Propulsion Conference**, *2009*
+
 
 [My doctoral dissertation]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
 
