@@ -3,32 +3,32 @@ title: Stuff that's published
 permalink: /publications/
 ---
 
-## [My doctoral dissertation][]
+# [My doctoral dissertation][]
 
-## Journal publications
+# Journal publications
 
-[An asymptotic model for the slow evolution of internal tides in quasi-geostrophic flow][8] 
+[An asymptotic model for the slow evolution of internal tides in quasi-geostrophic flow][8]  
 **Journal of Fluid Mechanics**, *submitted*
 
-[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][7] 
+[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][7]  
 **Journal of Fluid Mechanics**, *2016*
 
-[A tale of two spicy seas][6] 
+[A tale of two spicy seas][6]  
 **Oceanography**, *2016*
 
-[Available potential vorticity and wave-averaged quasi-geostrophic flow][5] 
+[Available potential vorticity and wave-averaged quasi-geostrophic flow][5]  
 **Journal of Fluid Mechanics**, *2015*
 
-[Mixing by microorganisms in stratified fluids][4] 
+[Mixing by microorganisms in stratified fluids][4]  
 **Journal of Marine Research**, *2014*
 
-[Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3] 
+[Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]  
 **Langmuir**, *2014*
 
-[Crawling scallop: Friction-based locomotion with one degree of freedom][2] 
+[Crawling scallop: Friction-based locomotion with one degree of freedom][2]  
 **Journal of Theoretical Biology**, *2013*
 
-[Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1] 
+[Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
 **AIAA/ASME/SAE/ASEE Jount Propulsion Conference**, *2009*
 
 
