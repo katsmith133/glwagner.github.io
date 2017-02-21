@@ -3,7 +3,7 @@ title: Stuff that's published
 permalink: /publications/
 ---
 
-## My doctoral dissertation:
+## My doctoral dissertation
 * [Just the introduction][] (fun!)
 * [The whole thing][] (a large file)
 
@@ -18,7 +18,7 @@ Gregory L Wagner and William R Young
 **Journal of Fluid Mechanics**, *2016*
 
 [A tale of two spicy seas.][6]  
-Jennifer A MacKinnon, Jonathan D Nash, Matthew H Alford, Andrew J Lucas, John B Mickett, Emily Shroyer, Amy F Waterhouse, Amit Tandon, Debasis Sengupta, Amala Mahadevan, M Ravichandran, Robert Pinkel, Daniel L Rudnick, Caitlin B Whalen, Marion S Alberty, J Sree Lekha, Elizabeth C Fine, Dipayan Chaudhuri, Gregory L Wagner  
+Jennifer A MacKinnon *et al.*
 **Oceanography**, *2016*
 
 [Available potential vorticity and wave-averaged quasi-geostrophic flow.][5]  
@@ -30,7 +30,7 @@ Gregory L Wagner, Eric Lauga, and William R Young
 **Journal of Marine Research**, *2014*
 
 [Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers.][3]  
-Jahir Orozco, Beatriz Jurado-Sánchez, Gregory Wagner, Wei Gao, Rafael Vazquez-Duhalt, Sirilak Sattayasamitsathit, Michael Galarnyk, Allan Cortés, David Saintillan, Joseph Wang  
+Jahir Orozco *et al.*
 **Langmuir**, *2014*
 
 [Crawling scallop: Friction-based locomotion with one degree of freedom.][2]  
