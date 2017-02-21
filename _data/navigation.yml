@@ -6,6 +6,8 @@ main:
     url: https://glwagner.github.io/projects/
   - title: "Publications"
     url: https://glwagner.github.io/publications/
+  - title: "Talks"
+    url: https://glwagner.github.io/talks/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
