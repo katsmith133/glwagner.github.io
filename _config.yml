@@ -14,7 +14,7 @@ description              : "Science n' stuff."
 url                      : "https://glwagner.github.io"
 baseurl                  : # Subpath, if there is one.
 repository               : "glwagner/glwagner.github.io"
-teaser                   : "/assets/images/me.jpg"
+teaser                   : "/assets/images/ruggedIndividualism-small.jpg"
 #breadcrumbs             : false # true, false (default)
 words_per_minute         : 200
 comments:
