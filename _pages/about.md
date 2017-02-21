@@ -5,12 +5,12 @@ header:
 permalink: /about/
 ---
 
-I am a human and a scientist.  I love to learn and to teach,
-to think about past and future, and to run, climb, ski, and explore 
-the landscapes of Earth.  Through science I try to better understand 
-the Earth's ocean and why it moves in such mysterious ways.
+I love to learn and to teach, to think about past and future, and to 
+run, climb, ski, and explore the landscapes of Earth. Through science 
+I try to better understand the Earth's ocean and why it moves in such 
+mysterious ways.
 
-I received my Ph.D. from the University of California, San Diego in May 2016
+I received my Ph.D. from the University of California, San Diego in May, 2016
 for a dissertation titled "On the coupled evolution of oceanic internal waves
 and quasi-geostrophic flow".  In my dissertation I use asymptotic mathematical 
 methods and simple computer simulations to unearth oceanic truths about 
