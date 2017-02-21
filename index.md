@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: Me: human and scientist
 ---
 
 I am a human and a scientist.  I love to learn and to teach,
