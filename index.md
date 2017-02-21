@@ -1,7 +1,7 @@
 ---
 title: Me: human and scientist
+layout: single
 author_profile: true
-permalink: /
 ---
 
 I am a human and a scientist.  I love to learn and teach, 
