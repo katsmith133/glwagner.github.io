@@ -1,9 +1,8 @@
 ---
-layout: single
+title: Me: human and scientist
 author_profile: true
+permalink: /
 ---
-
-# Me: human and scientist
 
 I am a human and a scientist.  I love to learn and teach, 
 to think about past and future, and to explore 
