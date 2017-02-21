@@ -1,5 +1,4 @@
 ---
-title: Me: human and scientist
 layout: single
 author_profile: true
 ---
