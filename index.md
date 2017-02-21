@@ -2,7 +2,9 @@
 title: Me: human and scientist
 ---
 
-I am a human and a scientist.  I love to learn and teach, 
-to think about past and future, and to explore 
-the landscapes of Earth.  With science I try to better understand 
-the Earth's ocean and why it moves in such mysterious ways.
+Hello!  I am a physical oceanographer and postdoctoral researcher at the
+Massachusetts Institute of Technology.  I'm working on several problems
+in oceanic mixing, turbulence, internal waves, and the interaction of 
+oceanic flows with underwater mountains, canyons, and otherwise rough
+bathymetry.  Please feel free to explore this site to learn more about
+me and what I do, or email me at `wagner.greg@gmail.com`.

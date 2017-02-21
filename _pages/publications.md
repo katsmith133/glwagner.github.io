@@ -3,7 +3,9 @@ title: Stuff that's published
 permalink: /publications/
 ---
 
-## [My doctoral dissertation][]
+## My doctoral dissertation:
+* [Just the introduction][] (fun!)
+* [The whole thing][] (a large file)
 
 ## Journal publications
 
@@ -40,7 +42,8 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 **AIAA/ASME/SAE/ASEE Jount Propulsion Conference**, *2009*
 
 
-[My doctoral dissertation]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
+[Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
+[The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
 
 [8]: https://glwagner.github.io/assets/pdf/hydrostaticWaveEqn-arxiv-2017.pdf 
 [7]: https://glwagner.github.io/assets/pdf/threeComponentModel-JFM-2016.pdf
