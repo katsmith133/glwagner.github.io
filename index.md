@@ -1,6 +1,5 @@
 ---
 layout: single
-author_profile: true
 ---
 
 I am a human and a scientist.  I love to learn and teach, 

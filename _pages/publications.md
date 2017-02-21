@@ -1,6 +1,5 @@
 ---
 title: Stuff that's published
-author_profile: true
 permalink: /publications/
 ---
 
