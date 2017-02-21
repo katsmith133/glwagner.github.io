@@ -1,13 +1,3 @@
-{% if author.email %} 
-  <li>
-    <a href="mailto:{{ author.email }}">
-      <meta itemprop="{{ author.email }}" content="{{ author.email }}" />
-      <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>
-      {{ site.data.ui-test[site.locale].email label | default : "{{ author.email }}" }}
-    </a>
-  </li>
-{% endif %}
-
 <!--
   <li>
     <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
