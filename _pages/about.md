@@ -8,8 +8,8 @@ permalink: /about/
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth. 
 
-As a scientist I study the physics of the Earth's ocean and the
-infinite entanglement of its eddies, currents, waves, and turbulence.
+As a scientist I study the Earth's ocean, its physics and motion, and
+the infinite entanglement of its eddies, currents, waves, and turbulence.
 
 I'm currently working with [Raffaele Ferrari][] in the Department of Earth and
 Planetary Sciences at the Massachusetts Institute of Technology,
