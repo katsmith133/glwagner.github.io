@@ -20,22 +20,18 @@ Planetary Sciences at the Massachusetts Institute of Technology,
 
 ## More generally
 
-I was raised in a Boston suburb. After receiving Bachelors and Masters degrees 
-in Aerospace Engineering from the University of Michigan, I entered a PhD 
-program in the Mechanical and Aerospace Engineering Department at the University 
-of California, San Diego in the fall of 2011.  I worked with [Eric Lauga][] for 
-a few years on problems in locomotion and *very* small-scale fluid dynamics before 
-zooming out to oceanic fluid dynamics with [Bill Young][] after Eric accepted a 
-position at the University of Cambridge. 
+I was raised in a Boston suburb. After receiving Bachelor's and Master's 
+in Aerospace Engineering from the University of Michigan in 2010, I entered
+a PhD program in the Department of Mechanical and Aerospace Engineering at the 
+University of California, San Diego.  I worked with [Eric Lauga][] on problems
+in locomotion and *very* small-scale fluid dynamics for a few years before 
+refocusing on oceanography with [Bill Young][].
 
 I received my PhD in May of 2016 for a [dissertation][] titled "On the coupled 
 evolution of oceanic internal waves and quasi-geostrophic flow".  In my 
 dissertation I use asymptotic mathematical methods and simple computer 
 simulations to unearth oceanic truths about [ever-changing currents][] 
 and [subsurface internal waves][] with scales between 10 and 200 kilometers.
-
-Then I took a few months off, traveled and climbed mountains, and eventually
-ended up back in Boston where I started long ago.
 
 ## [My life's course][]
 
