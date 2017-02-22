@@ -24,8 +24,8 @@ receiving Bachelors and Masters degrees in Aerospace Engineering from the
 University of Michigan, I entered a PhD program in the Mechanical and 
 Aerospace Engineering Department at the University of California, San Diego 
 in the fall of 2011.  I worked with [Eric Lauga][] for a few years on problems 
-in locomotion and *very* small-scale fluid dynamics before switching to 
-oceanography and [Bill Young][] when Eric accepted a position at the University 
+in locomotion and *very* small-scale fluid dynamics before zooming out to oceanic
+fluid dynamics with [Bill Young][] after Eric accepted a position at the University 
 of Cambridge. 
 
 I received my PhD in May of 2016 for a [dissertation][] titled "On the coupled 
