@@ -11,12 +11,12 @@ run, climb, ski, and explore the landscapes of Earth.
 As a scientist I study the Earth's ocean, its physics and motion, and
 the infinite entanglement of its eddies, currents, waves, and turbulence.
 
-I'm currently working with [Raffaele Ferrari][] in the Department of Earth and
-Planetary Sciences at the Massachusetts Institute of Technology
-on how the particular patterns and physics of 
-[bottom-enhanced ocean turbulence][] modulate the communication of heat, 
+I'm currently examining on how the particular patterns and physics of
+[bottom-enhanced ocean turbulence][] modulate the communication of heat,
 carbon and other tracers between the atmosphere and ocean abyss.
-My work is funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][].
+I'm funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][]
+and working with [Raffaele Ferrari][] in the Department of Earth and
+Planetary Sciences at the Massachusetts Institute of Technology, 
 
 ## More generally
 
