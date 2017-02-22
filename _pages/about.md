@@ -33,31 +33,31 @@ dissertation I use asymptotic mathematical methods and simple computer
 simulations to unearth oceanic truths about [ever-changing currents][] 
 and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
-## A sketch
-
-My life's course:  
+## My life's course
 
 ### Employment
 
-**since 2016**: Postdoctoral Associate, MIT
-**2014--2016**: Teaching Assistant and Graduate Research Assistant, UCSD
+* since 2016: Postdoctoral Associate, MIT
+* 2014--2016: Teaching Assistant and Graduate Research Assistant, UCSD
+* 2009--2010: Research Engineer, Accio Energy
 
 ### Education
 
-PhD (2016) University of California, San Diego  
-MSE (2010) University of Michigan, Ann Arbor  
-BSE (2009) University of Michigan, Ann Arbor, *Magna Cum Laude*  
+* PhD (2016) University of California, San Diego  
+* MSE (2010) University of Michigan, Ann Arbor  
+* BSE (2009) University of Michigan, Ann Arbor, *Magna Cum Laude*  
 
 ### Teaching
 
-Teaching assistant, Fluid Dynamics II (grad, Winter 2014)  
-Teaching assistant, Introduction to Mathematical Physics (undergrad, Spring and Fall 2015)
+* Teaching assistant, Introduction to Mathematical Physics (Fall 2015)
+* Teaching assistant, Introduction to Mathematical Physics (Spring 2015)
+* Teaching assistant, Fluid Dynamics II (Winter 2014)  
 
 ### Awards
 
-NOAA Climate and Global Change Postdoctoral Fellowship, 2016--2018  
-Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering, 2016  
-Focht-Powell Graduate Fellowship, 2010--2013
+* NOAA Climate and Global Change Postdoctoral Fellowship, 2016--2018  
+* Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering, 2016  
+* Focht-Powell Graduate Fellowship, 2010--2013
 
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
