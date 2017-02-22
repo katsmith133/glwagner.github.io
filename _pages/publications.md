@@ -1,7 +1,8 @@
 ---
-title: A few things I've published
 permalink: /publications/
 ---
+
+Check these things out.
 
 ## My doctoral dissertation
 

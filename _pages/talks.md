@@ -1,5 +1,5 @@
 ---
-title: A few talks I've given
+title: 
 permalink: /talks/
 ---
 

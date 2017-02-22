@@ -1,7 +1,8 @@
 ---
-title: Things I'm often thinking about
 permalink: /projects/
 ---
+
+These are a few of the ideas the keep me up at night. 
 
 ## Abyssal mixing.
 
