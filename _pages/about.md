@@ -6,30 +6,38 @@ permalink: /about/
 ---
 
 I love to learn and to teach, to think about past and future, and to 
-run, climb, ski, and explore the landscapes of Earth. Through science 
-I try to better understand the Earth's ocean and why it moves in such 
-mysterious ways.
+run, climb, ski, and explore the landscapes of Earth. 
 
-I grew up in Boston suburb but am shaped by western landscapes. I received 
-my Ph.D. from the University of California, San Diego in May, 2016
-for a dissertation titled "On the coupled evolution of oceanic internal waves
-and quasi-geostrophic flow".  My dissertation uses asymptotic mathematical 
-methods and simple computer simulations to unearth oceanic truths about 
-[ever-changing currents][] and [subsurface internal waves][] with scales 
-between 10 and 200 kilometers.
+As a scientist I study the physics of the Earth's ocean and its
+breathtaking ways it moves in waves, currents, and turbulence.
 
-I'm now funded by a [NOAA Climate & Global Change Postdoctoral Fellow][] 
-to work with [Raffaele Ferrari][] at the Massachusetts Institute of Technology 
-on [bottom-enhanced ocean turbulence][] and how its particular distribution 
-and physics control heat and carbon transport from the atmosphere into the 
-ocean abyss.
+I'm currently working with [Raffaele Ferrari][] at the Massachusetts Institute 
+of Technology under [NOAA Climate & Global Change Postdoctoral Fellowship][] 
+to examine how the patterns and physics of [bottom-enhanced ocean turbulence][] 
+transfer heat and carbon from the atmosphere into the ocean abyss.
 
-I've also worked on the mechanics of granular flow, stratified and unstratified 
-low Reynolds number flow, and friction-based locomotion.
+### More generally
 
+I was raised in a Boston suburb and shaped by western landscapes.  After 
+receiving Bachelors and Masters degrees in Aerospace Engineering from the 
+University of Michigan, I entered a PhD program in the Mechanical and 
+Aerospace Engineering Department at the University of California, San Diego 
+in the fall of 2011.  I worked with [Eric Lauga][] for a few years on problems 
+in locomotion and *very* small-scale fluid dynamics before switching to 
+oceanography and [Bill Young][] when Eric accepted a position at the University 
+of Cambridge. 
+
+I received my PhD in May of 2016 for a [dissertation][] titled "On the coupled 
+evolution of oceanic internal waves and quasi-geostrophic flow".  In my 
+dissertation I use asymptotic mathematical methods and simple computer 
+simulations to unearth oceanic truths about [ever-changing currents][] 
+and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
 [NOAA Climate & Global Change Postdoctoral Fellow]: http://vsp.ucar.edu/cgc/current-awards-alumni 
 [Raffaele Ferrari]: http://ferrari.mit.edu 
+[Bill Young]: http://pordlabs.ucsd.edu/wryoung/
+[Eric Lauga]: http://www.damtp.cam.ac.uk/user/lauga/
+[dissertation]: https://glwagner.github.io/publications/
 [bottom-enhanced ocean turbulence]: http://www.nature.com/nature/journal/v513/n7517/full/513179a.html
