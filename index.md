@@ -2,15 +2,17 @@
 title: Me: human and scientist
 ---
 
-I am a human, scientist, physical oceanographer, and postdoctoral researcher 
-at the Massachusetts Institute of Technology.  I received a PhD from the 
-University of California, San Diego in May, 2016 and moved to Boston in 
-November.
+I study the physics of ocean flows.  
 
-At MIT I'm working on problems in ocean mixing and turbulence.
-I'm especially interested in how the ocean's "landscapes" --- underwater 
-mountains and volcanoes, mid-ocean ridges, canyons, and rolling hills ---
-shape the turbulence that mixes heat and carbon into the abyss.
+Right now I'm a postdoctoral researcher at the Massachusetts Institue of 
+Technology trying to understand how the ocean's subsurface "landscape"
+--- underwater mountains and volcanoes, mid-ocean ridges, canyons, 
+and rolling hills --- shapes the turbulence that mixes the 
+ocean on the smallest scales.  My work is funded by a [NOAA postdoctoral
+fellowship][].
 
-This site exists so you can learn more about me and what I do.
-me and what I do, or email me at `wagner.greg@gmail.com`.
+I made this site so you might learn more about me and what I do. 
+If you want to know more, don't hesitate to email me at 
+`wagner.greg@gmail.com`.
+
+[NOAA postdoctoral fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
