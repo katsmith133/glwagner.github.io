@@ -8,8 +8,8 @@ permalink: /about/
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth. 
 
-As a scientist I study the physics of the Earth's ocean and its
-breathtaking ways it moves in waves, currents, and turbulence.
+As a scientist I study the physics of the Earth's ocean and the
+infinite entanglement of its eddies, currents, waves, and turbulence.
 
 I'm currently working with [Raffaele Ferrari][] at the Massachusetts Institute 
 of Technology under [NOAA Climate & Global Change Postdoctoral Fellowship][] 
@@ -35,7 +35,7 @@ and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
-[NOAA Climate & Global Change Postdoctoral Fellow]: http://vsp.ucar.edu/cgc/current-awards-alumni 
+[NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
 [Raffaele Ferrari]: http://ferrari.mit.edu 
 [Bill Young]: http://pordlabs.ucsd.edu/wryoung/
 [Eric Lauga]: http://www.damtp.cam.ac.uk/user/lauga/
