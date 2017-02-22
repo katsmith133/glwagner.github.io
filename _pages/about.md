@@ -11,8 +11,9 @@ run, climb, ski, and explore the landscapes of Earth.
 As a scientist I study the physics of the Earth's ocean and the
 infinite entanglement of its eddies, currents, waves, and turbulence.
 
-I'm currently working with [Raffaele Ferrari][] at the Massachusetts Institute 
-of Technology under [NOAA Climate & Global Change Postdoctoral Fellowship][] 
+I'm currently working with [Raffaele Ferrari][] in the Department of Earth and
+Planetary Sciences at the Massachusetts Institute of Technology,
+funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][] 
 to examine how the patterns and physics of [bottom-enhanced ocean turbulence][] 
 transfer heat and carbon from the atmosphere into the ocean abyss.
 
@@ -37,27 +38,27 @@ and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
 ### Employment
 
-* since 2016: Postdoctoral Associate, MIT
-* 2014--2016: Teaching Assistant and Graduate Research Assistant, UCSD
+* since 2016: Postdoctoral Associate, Massachusetts Institute of Technology
+* 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
 * 2009--2010: Research Engineer, Accio Energy
-
-### Education
-
-* PhD (2016) University of California, San Diego  
-* MSE (2010) University of Michigan, Ann Arbor  
-* BSE (2009) University of Michigan, Ann Arbor, *Magna Cum Laude*  
 
 ### Teaching
 
-* Teaching assistant, Introduction to Mathematical Physics (Fall 2015)
-* Teaching assistant, Introduction to Mathematical Physics (Spring 2015)
-* Teaching assistant, Fluid Dynamics II (Winter 2014)  
+* Fall 2015: Teaching Assistant, Introduction to Mathematical Physics
+* Spring 2015: Teaching Assistant, Introduction to Mathematical Physics 
+* Winter 2014: Teaching assistant, Fluid Dynamics II
+
+### Education
+
+* PhD, University of California, San Diego (2016) 
+* MSE, University of Michigan, Ann Arbor (2010) 
+* BSE, University of Michigan, Ann Arbor, *Magna Cum Laude* (2009)  
 
 ### Awards
 
-* NOAA Climate and Global Change Postdoctoral Fellowship, 2016--2018  
-* Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering, 2016  
-* Focht-Powell Graduate Fellowship, 2010--2013
+* NOAA Climate and Global Change Postdoctoral Fellowship (2016--2018)  
+* Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering (Spring 2016)  
+* Focht-Powell Graduate Fellowship (2010--2013)
 
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
