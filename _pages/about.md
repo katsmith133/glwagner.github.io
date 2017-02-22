@@ -33,6 +33,12 @@ dissertation I use asymptotic mathematical methods and simple computer
 simulations to unearth oceanic truths about [ever-changing currents][] 
 and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
+If I'm not answering email, a probable explanation is that I'm outside somewhere
+running on trails or up mountains, climbing rocks, skiing icy New England snow, 
+or surfing icy New England waves. Other spare moments are spent complaining
+about the paltry allotment of hours per day on this otherwise wonderful planet.
+
+
 ## [My life's course][]
 
 ### Employment
