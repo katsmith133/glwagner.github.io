@@ -1,8 +1,7 @@
 ---
+title: The ideas that keep me up at night
 permalink: /projects/
 ---
-
-These are a few of the ideas the keep me up at night. 
 
 ## Abyssal mixing.
 

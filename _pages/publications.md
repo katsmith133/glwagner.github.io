@@ -1,8 +1,9 @@
 ---
+title: Publications
 permalink: /publications/
 ---
 
-Check these things out.
+Check these out:
 
 ## My doctoral dissertation
 
