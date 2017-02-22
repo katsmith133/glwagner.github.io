@@ -3,8 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-Check these out:
-
 ## My doctoral dissertation
 
 * [Just the introduction][] (fun!)
