@@ -17,11 +17,11 @@ methods and simple computer simulations to unearth oceanic truths about
 [ever-changing currents][] and [subsurface internal waves][] with scales 
 between 10 and 200 kilometers.
 
-I'm now a [NOAA Climate & Global Change Postdoctoral Fellow][] working with 
-[Raffaele Ferrari][] at the Massachusetts Institute of Technology on 
-[bottom-enhanced ocean turbulence][] and how its particular distribution and 
-physics control heat and carbon transport from the atmosphere into the ocean 
-abyss.
+I'm now funded by a [NOAA Climate & Global Change Postdoctoral Fellow][] 
+to work with [Raffaele Ferrari][] at the Massachusetts Institute of Technology 
+on [bottom-enhanced ocean turbulence][] and how its particular distribution 
+and physics control heat and carbon transport from the atmosphere into the 
+ocean abyss.
 
 I've also worked on the mechanics of granular flow, stratified and unstratified 
 low Reynolds number flow, and friction-based locomotion.
