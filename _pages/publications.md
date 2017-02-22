@@ -1,5 +1,4 @@
 ---
-title: Stuff that's published
 permalink: /publications/
 ---
 
@@ -40,7 +39,7 @@ Gregory L Wagner and Eric Lauga
 
 [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
 Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson  
-**AIAA/ASME/SAE/ASEE Jount Propulsion Conference**, *2009*
+**AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
 
 
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 

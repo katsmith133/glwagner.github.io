@@ -1,9 +1,10 @@
 ---
-title: About me
 header:
   image: /assets/images/headerMontage.jpg
 permalink: /about/
 ---
+
+## Introduction
 
 I love to learn and to teach, to think about past and future, and to 
 run, climb, ski, and explore the landscapes of Earth. 
