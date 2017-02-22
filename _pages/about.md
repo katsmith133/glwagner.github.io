@@ -34,7 +34,7 @@ dissertation I use asymptotic mathematical methods and simple computer
 simulations to unearth oceanic truths about [ever-changing currents][] 
 and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
-## My life's course
+## [My life's course][]
 
 ### Employment
 
@@ -60,6 +60,7 @@ and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 * Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering (Spring 2016)  
 * Focht-Powell Graduate Fellowship (2010--2013)
 
+[My life's course]: https://glwagner.github.io/assets/pdf/glwCV.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
 [NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 

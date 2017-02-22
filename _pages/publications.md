@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Journal publications
 
-[An asymptotic model for the slow evolution of internal tides in quasi-geostrophic flow][8]  
+[An asymptotic model for the propgation of internal tides through quasi-geostrophic flow][8]  
 Gregory L Wagner, Gwenael Ferrando and William R Young  
 **Journal of Fluid Mechanics**, *submitted*
 
