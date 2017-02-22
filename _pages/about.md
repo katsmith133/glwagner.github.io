@@ -13,10 +13,11 @@ As a scientist I study the Earth's ocean, its physics and motion, and
 the infinite entanglement of its eddies, currents, waves, and turbulence.
 
 I'm currently working with [Raffaele Ferrari][] in the Department of Earth and
-Planetary Sciences at the Massachusetts Institute of Technology,
-funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][] 
-to examine how the patterns and physics of [bottom-enhanced ocean turbulence][] 
-transfer heat and carbon from the atmosphere into the ocean abyss.
+Planetary Sciences at the Massachusetts Institute of Technology
+on how the particular patterns and physics of 
+[bottom-enhanced ocean turbulence][] modulate the communication of heat, 
+carbon and other tracers between the atmosphere and ocean abyss.
+My work is funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][].
 
 ## More generally
 
