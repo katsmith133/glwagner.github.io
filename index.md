@@ -13,7 +13,6 @@ My work is funded by a [NOAA postdoctoral fellowship][].
 Click around to learn more about [me][], [what I do][], or email me 
 at `wagner.greg@gmail.com`.
 
-
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
 [NOAA postdoctoral fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
