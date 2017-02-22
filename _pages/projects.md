@@ -3,8 +3,8 @@ title: Stuff I'm thinking about
 permalink: /projects/
 ---
 
-# Abyssal mixing.
+## Abyssal mixing.
 
-# Waves and flow.
+## Waves and flow.
 
-# Low Reynolds number fluid dynamics.
+## Low Reynolds number fluid dynamics.
