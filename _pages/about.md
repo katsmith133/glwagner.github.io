@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-  image: /assets/images/montageHeader.jpg
+  image: /assets/images/headerMontage.jpg
 permalink: /about/
 ---
 
@@ -10,9 +10,10 @@ run, climb, ski, and explore the landscapes of Earth. Through science
 I try to better understand the Earth's ocean and why it moves in such 
 mysterious ways.
 
-I received my Ph.D. from the University of California, San Diego in May, 2016
+I grew up in Boston suburb but am shaped by western landscapes. I received 
+my Ph.D. from the University of California, San Diego in May, 2016
 for a dissertation titled "On the coupled evolution of oceanic internal waves
-and quasi-geostrophic flow".  In my dissertation I use asymptotic mathematical 
+and quasi-geostrophic flow".  My dissertation uses asymptotic mathematical 
 methods and simple computer simulations to unearth oceanic truths about 
 [ever-changing currents][] and [subsurface internal waves][] with scales 
 between 10 and 200 kilometers.
