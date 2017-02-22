@@ -1,4 +1,5 @@
 ---
+title: 
 header:
   image: /assets/images/headerMontage.jpg
 permalink: /about/
