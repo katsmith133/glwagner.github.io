@@ -1,5 +1,5 @@
 ---
-title: 
+title: A few things I've published
 permalink: /publications/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Things I'm often thinking about
 permalink: /projects/
 ---
 
