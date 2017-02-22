@@ -13,7 +13,7 @@ the infinite entanglement of its eddies, currents, waves, and turbulence.
 
 I'm currently working to understand how the particular patterns and physics
 of [bottom-enhanced ocean turbulence][] modulate the communication of heat,
-carbon and other tracers between the atmosphere and ocean abyss.
+carbon and other tracers between the sunlit upper ocean and the abyss.
 I'm funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][]
 and working with [Raffaele Ferrari][] in the Department of Earth and
 Planetary Sciences at the Massachusetts Institute of Technology, 
