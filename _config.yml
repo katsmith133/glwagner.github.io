@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "glw's stuff"
+title                    : "glw's science"
 title_separator          : "-"
 name                     : "Gregory L. Wagner"
-description              : "Science n' stuff."
+description              : "Mostly about ocean physics."
 url                      : "https://glwagner.github.io"
 baseurl                  : # Subpath, if there is one.
 repository               : "glwagner/glwagner.github.io"
-teaser                   : "/assets/images/aPensiveMoment.jpg"
+teaser                   : "/assets/images/dropletWaves-bottom.jpg"
 #breadcrumbs             : false # true, false (default)
 words_per_minute         : 200
 comments:
