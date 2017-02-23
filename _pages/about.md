@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: About me
 header:
   image: /assets/images/headerMontage.jpg
 permalink: /about/
