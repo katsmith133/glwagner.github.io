@@ -35,8 +35,8 @@ dissertation I use asymptotic mathematical methods and simple computer
 simulations to unearth oceanic truths about [ever-changing currents][] 
 and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 
-If I'm not answering email, I'm may be outside somewhere, exploring
-this wonderful planet...
+If I'm not answering email, I may be somewhere beyond the end of the road, 
+exploring this wonderful planet...
 
 ## [My life's course][]
 
