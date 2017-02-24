@@ -1,7 +1,7 @@
 ---
 title: Waves and flow
 header:
-  image: /assets/images/waveMeanHeader.jpg
+  image: /assets/images/wavesFlowFourPanel.jpg
 permalink: /projects/wavesAndFlow
 ---
 
