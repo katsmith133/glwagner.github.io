@@ -1,8 +1,8 @@
 ---
 title: Waves and flow
-permalink: /projects/wavesAndFlow
 header:
-  image: /assets/images/wavesAndFlow.jpg
+  image: /assets/images/wavesMeanHeader.jpg
+permalink: /projects/wavesAndFlow
 ---
 
 Coming soon.
