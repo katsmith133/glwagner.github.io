@@ -61,8 +61,8 @@ exploring this wonderful planet...
 ### Awards
 
 * NOAA Climate and Global Change Postdoctoral Fellowship (2016--2018)  
-* Outstanding Teaching Assistant Award in Mechanical and Aerospace Engineering (Spring 2016)  
-* Focht-Powell Graduate Fellowship (2010--2013)
+* Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)  
+* Focht-Powell Graduate Fellowship, UCSD (2010--2013)
 
 [My life's course]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
