@@ -1,5 +1,5 @@
 ---
-title: The ideas that keep me up at night
+title: Some of the stuff I do (in progress)
 header:
   image: /assets/images/office.jpg
 permalink: /projects/
