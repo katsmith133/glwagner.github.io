@@ -1,5 +1,5 @@
 ---
-title: Research topics I've pondered (a work in progress)
+title: The ideas the keep me up at night (in progress)
 header:
   image: /assets/images/office.jpg
 permalink: /projects/
