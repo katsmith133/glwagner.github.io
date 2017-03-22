@@ -20,16 +20,14 @@ to illuminate the myriad ways that waves and flow interact and exchange energy.
 Salty, freezing cold water is poured into the ocean's abyss
 when the ocean cools and new sea ice forms during
 winter in Antarctica. This dense water creeps and spreads equatorward
-to fill all the ocean basins, all the while gently stirred and 
+to fill all the ocean basins, all the while gently 
 mixed into the lighter water above by turbulence and breaking 
 interior waves. The balance between these processes ultimately
-determines the structure of oceanic density so critical to 
-ocean dynamics, the storage and mixing of heat and carbon, 
-and climate. My work in abyssal mixing uses, or will use, large 
-numerical models to rationalize observations and chip away
-at at the mystery of how the density stratification 
-of the ocean somehow equilibrates as it gives rise to the same 
-wave-driven turbulent processes that erode, mix, and homogenize it.
+determines the structure of oceanic density so critical to how
+the ocean moves, mixes, and stores heat and carbon.
+My work in abyssal mixing uses large and "realistic"
+numerical models to investigate how how turbulent mixing 
+both depends on and erodes the ocean's density stratification.
 
 
 [Waves and flow]: https://glwagner.github.io/projects/wavesAndFlow
