@@ -9,10 +9,10 @@ permalink: /projects/
 
 Subsurface internal waves and shifting eddies and currents --- quasi-geostrophic flow --- 
 are the main components of oceanic motion on scales from tens to hundreds of kilometers.
-The particular dynamics, strength, and dissipation of these motions imprints on 
+Their particular dynamics, strength, and dissipation contols
 how things like heat and carbon are stirred, mixed, and drawn into the ocean's abyss. 
-I am studying how waves and flow interact and exchange energy 
-by developing and solving new theoretical models for their nonlinear and coupled evolution.
+My past and continuing work uses theory, asymptotic models, and simple numerical simulations
+to illuminate how waves and flow interact and exchange energy.
 
 ## [Abyssal mixing][]
 
