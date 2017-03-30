@@ -7,27 +7,22 @@ permalink: /projects/
 
 ## [Waves and flow][]
 
-Subsurface internal waves and shifting eddies and currents are the 
-main components of oceanic motion on scales from tens to hundreds of kilometers.
-Their particular dynamics, strength, and dissipation contols
-how things like heat and carbon are stirred, mixed, and stored in the ocean's abyss. 
-My past and continuing work uses theory, asymptotic models, and simple numerical simulations
-to illuminate the myriad ways that waves and flow interact and exchange energy.
+The peculiar dynamics of both subsurface internal waves and shifting eddies, 
+currents, and 'quasi-geostrophic' flows each control, in their own way, how 
+things like heat and carbon are stirred, mixed, and stored in the ocean's abyss. 
+My work uses theory and idealized models to illuminate the multifold ways these
+orthogonal, yet intertwined modes of motion *interact*, coevolve, and exchange energy.
 
 
 ## [Abyssal mixing][]
 
-Salty, freezing cold water is poured into the ocean's abyss
-when the ocean cools and new sea ice forms during
-winter in Antarctica. This dense water creeps and spreads equatorward
-to fill all the ocean basins, all the while gently 
-mixed into the lighter water above by turbulence and breaking 
-interior waves. The balance between these processes ultimately
-determines the structure of oceanic density so critical to how
-the ocean moves, mixes, and stores heat and carbon.
-My work in abyssal mixing uses large and "realistic"
-numerical models to investigate how how turbulent mixing 
-both depends on and erodes the ocean's density stratification.
+Far beneath the surface, the ocean is perpetually churned by weak, intermittent 
+turbulence that over turns water on centimeter to hundred-meter scales. 
+Gradually and not without mystery, this turbulent mixing draws heat and carbon 
+into the abyss and ultimately sets the structure of oceanic density so critical
+to how the ocean moves. My work in abyssal mixing uses large and "realistic"
+numerical models to investigate the both the origins and outcomes
+of turbulent mixing in the abyss.
 
 
 [Waves and flow]: https://glwagner.github.io/projects/wavesAndFlow
