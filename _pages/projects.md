@@ -11,18 +11,18 @@ The peculiar dynamics of both subsurface internal waves and shifting eddies,
 currents, and 'quasi-geostrophic' flows each control, in their own way, how 
 things like heat and carbon are stirred, mixed, and stored in the ocean's abyss. 
 My work uses theory and idealized models to illuminate the multifold ways these
-orthogonal, yet intertwined modes of motion *interact*, coevolve, and exchange energy.
+orthogonal, yet intertwined modes of motion *interact and coevolve.*
 
 
 ## [Abyssal mixing][]
 
-Far beneath the surface, the ocean is perpetually churned by weak, intermittent 
-turbulence that over turns water on centimeter to hundred-meter scales. 
-Gradually and not without mystery, this turbulent mixing draws heat and carbon 
-into the abyss and ultimately sets the structure of oceanic density so critical
-to how the ocean moves. My work in abyssal mixing uses large and "realistic"
-numerical models to investigate the both the origins and outcomes
-of turbulent mixing in the abyss.
+The dark abyssal depths of the ocean are gently but endlessly churned by turbulence 
+on centimeter to hundred-meter scales. Gradually and mysteriously, this weak and
+small-scale turbulence accumulates ocean-wide to draw heat and carbon into the 
+abyss, with profound implications for the evolution of Earth's climate and
+ocean stratification. My work in abyssal mixing uses a small amount of theory, 
+"realistic" ocean models, and idealized high resolution processes studies
+to probe both the origins and outcomes of turbulent abyssal mixing.
 
 
 [Waves and flow]: https://glwagner.github.io/projects/wavesAndFlow
