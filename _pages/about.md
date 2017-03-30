@@ -38,7 +38,7 @@ and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
 
-## [My life's course (*curriculum vitae* in latin)][]
+## [My life's course (*curriculum vitae* in Latin)][]
 
 ### Employment
 
@@ -64,7 +64,7 @@ exploring this wonderful planet...
 * Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)  
 * Focht-Powell Graduate Fellowship, UCSD (2010--2013)
 
-[My life's course (*curriculum vitae* in latin)]: https://glwagner.github.io/assets/pdf/glwCv.pdf
+[My life's course (*curriculum vitae* in Latin)]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
 [subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
 [NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
