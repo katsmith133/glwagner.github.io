@@ -38,7 +38,7 @@ and [subsurface internal waves][] with scales between 10 and 200 kilometers.
 If I'm not answering email, I may be somewhere beyond the end of the road, 
 exploring this wonderful planet...
 
-## [My life's course (*curriculum vitae* in latin)][]
+## [My life's course (*curriculum vitae* in Latin)][]
 
 ### Employment
 
