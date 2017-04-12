@@ -5,10 +5,13 @@ header:
 permalink: /projects/wavesAndFlow
 ---
 
-Far below the surface, hidden from the searching eyes of plane passengers and beachwalkers, 
-the ocean moves. Some of this motion oscillates with clock-like regularity on cycles of 24 hours, 
-or 12.421 hours, or even the peculiar period of $$4 \pi \sin \phi / day$$ at latitudes $$\phi$$: 
-these are subsurface internal waves. On even longer time scales of days to weeks, 
-narrow jet-like currents like the Gulf Stream and storm-like eddies spin and shift: this is flow. 
+A remarkable aspect of ocean physics are the pulsating
+waves that oscillate around the ocean's density stratification
+and rotation and, borne on daily-changing currents and pressure
+fluctuations, criss-cross the ocean basins. Though these waves are
+by nature slight perturbations to the ocean's background state,
+their strength is sufficient to alter and affect both heat-transpoting
+eddies and currents, and the diapycnal mixing that determines
+the ocean's density stratification.
 
 More coming soon.
