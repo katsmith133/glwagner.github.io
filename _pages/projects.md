@@ -19,7 +19,7 @@ orthogonal, yet intertwined modes of motion *interact* and *coevolve*.
 The darkest depths of the ocean are endlessly churned by turbulence 
 on centimeter to hundred-meter scales. Over decades and centuries, these
 deep, gentle, omnipresent turbulent motions conspire to pull heat and carbon
-into the by abyss, with profound implications for the evolution of Earth's 
+into the abyss, with profound implications for the evolution of Earth's 
 climate and ocean stratification. My work in abyssal mixing uses a small amount 
 of theory, "realistic" ocean models, and idealized high-resolution process studies
 to probe both the origins and outcomes of turbulent abyssal mixing.
