@@ -10,17 +10,21 @@ permalink: /publications/
 
 ## Journal publications
 
-[An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][8]  
+[An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]  
 Gregory L Wagner, Gwenael Ferrando and William R Young  
 **Journal of Fluid Mechanics**, *submitted*
 
-[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][7]  
+[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8]  
 Gregory L Wagner and William R Young  
 **Journal of Fluid Mechanics**, *2016*
 
-[A tale of two spicy seas][6]  
+[A tale of two spicy seas][7]  
 Jennifer A MacKinnon *et al.*  
 **Oceanography**, *2016*
+
+[Acoustically propelled nanoshells][6]
+Fernando Soto, Gregory L. Wagner, Victor Garcia-Gradilla, Kyle T. Gillespie, Deepak R. Lakshmipathy, EmilKarshalev, Chava Angell, Yi Chen, Joseph Wang
+**Nanoscale**, *2016*
 
 [Available potential vorticity and wave-averaged quasi-geostrophic flow][5]  
 Gregory L Wagner and William R Young  
@@ -46,9 +50,10 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
 [The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
 
-[8]: https://glwagner.github.io/assets/pdf/hydrostaticWaveEqn-arxiv-2017.pdf 
-[7]: https://glwagner.github.io/assets/pdf/threeComponentModel-JFM-2016.pdf
-[6]: http://tos.org/oceanography/article/a-tale-of-two-spicy-seas
+[9]: https://glwagner.github.io/assets/pdf/hydrostaticWaveEqn-arxiv-2017.pdf 
+[8]: https://glwagner.github.io/assets/pdf/threeComponentModel-JFM-2016.pdf
+[7]: http://tos.org/oceanography/article/a-tale-of-two-spicy-seas
+[6]: http://pubs.rsc.org/-/content/articlelanding/2016/nr/c6nr06603h
 [5]: https://glwagner.github.io/assets/pdf/availablePotentialVorticity-JFM-2015.pdf
 [4]: https://glwagner.github.io/assets/pdf/stratifiedMixingMicros-JMR-2014.pdf
 [3]: https://glwagner.github.io/assets/pdf/mixingBubbles-Langmuir-2014.pdf
