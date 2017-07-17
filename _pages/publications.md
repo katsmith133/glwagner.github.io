@@ -23,7 +23,7 @@ Jennifer A MacKinnon *et al.*
 **Oceanography**, *2016*
 
 [Acoustically propelled nanoshells][6]  
-Fernando Soto, Gregory L. Wagner, Victor Garcia-Gradilla, Kyle T. Gillespie, Deepak R. Lakshmipathy,
+Fernando Soto, Gregory L Wagner, Victor Garcia-Gradilla, Kyle T Gillespie, Deepak R Lakshmipathy,
 Emil Karshalev, Chava Angell, Yi Chen, Joseph Wang  
 **Nanoscale**, *2016*
 
