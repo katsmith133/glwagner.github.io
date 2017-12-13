@@ -3,11 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## My doctoral dissertation
-
-* [Just the introduction][] (fun!)
-* [The whole thing][] (a large file)
-
 ## Journal publications
 
 [An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]  
@@ -46,6 +41,12 @@ Gregory L Wagner and Eric Lauga
 [Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
 Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson  
 **AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
+
+
+## My doctoral dissertation
+
+* [Just the introduction][] (fun!)
+* [The whole thing][] (a large file)
 
 
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
