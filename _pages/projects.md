@@ -1,7 +1,7 @@
 ---
 title: Things that keep me up at night
 header:
-  image: /assets/images/office-2.jpg
+  image: /assets/images/blueoffice.jpg
 permalink: /projects/
 ---
 
