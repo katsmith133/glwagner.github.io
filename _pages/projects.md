@@ -1,24 +1,24 @@
 ---
 title: The ideas the keep me up at night (in progress)
 header:
-  image: /assets/images/office.jpg
+  image: /assets/images/office-2.jpg
 permalink: /projects/
 ---
 
 ## [Waves and flow][]
 
-The peculiar dynamics of both [subsurface internal waves][] and shifting eddies, 
+The peculiar dynamics of [subsurface internal waves][] and shifting eddies, 
 currents, and '[quasi-geostrophic][]' flows each control, in their own way, how 
 things like heat and carbon are stirred, mixed, and stored in the ocean's abyss. 
 My work uses theory and idealized models to illuminate the multifold ways these
-orthogonal, yet intertwined modes of motion *interact* and *coevolve*.
+orthogonal, yet intertwined motions interact and coevolve.
 
 
 ## [Abyssal mixing][]
 
-The ocean depths seethe and churn quiet yet unceasing 
+The ocean depths churn gently yet endlessly
 on centimeter to hundred-meter scales. Over decades and centuries, these
-omnipresent turbulent motions conspire to pull heat and carbon
+turbulent motions conspire to pull heat and carbon
 into the abyss, with profound implications for the evolution of Earth's 
 climate and ocean stratification. My work in abyssal mixing uses a small amount 
 of theory, "realistic" ocean models, and idealized high-resolution process studies
