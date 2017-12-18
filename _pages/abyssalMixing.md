@@ -1,6 +1,6 @@
 ---
 title: Abyssal mixing
-permalink: /projects/abyssalMixing
+permalink: /projects/abyssalmixing
 ---
 
 Coming soon.
