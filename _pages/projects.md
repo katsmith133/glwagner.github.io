@@ -25,7 +25,7 @@ of theory, "realistic" ocean models, and idealized high-resolution process studi
 to probe both the origins and outcomes of turbulent abyssal mixing.
 
 
-[Waves and flow]: https://glwagner.github.io/projects/wavesAndFlow
-[Abyssal mixing]: https://glwagner.github.io/projects/abyssalMixing
+[Waves and flow]: https://glwagner.github.io/projects/wavesandflow
+[Abyssal mixing]: https://glwagner.github.io/projects/abyssalmixing
 [subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic]: https://en.wikipedia.org/wiki/Geostrophic_current
