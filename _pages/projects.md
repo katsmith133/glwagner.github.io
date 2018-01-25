@@ -42,6 +42,7 @@ of theory, "realistic" ocean models, and idealized high-resolution process studi
 to probe both the origins and outcomes of turbulent abyssal mixing.
 
 
+[Squeeze dispersion]: https://glwagner.github.io/projects/squeezedispersion
 [Waves and flow]: https://glwagner.github.io/projects/wavesandflow
 [Abyssal mixing]: https://glwagner.github.io/projects/abyssalmixing
 [subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
