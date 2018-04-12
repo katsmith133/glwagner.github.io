@@ -19,9 +19,11 @@ processes. For example, rather than providing a definitive answer on
 the rate at which the deep ocean changes, I want to explain *why* the 
 deep ocean changes the way it does.
 
-Click around to learn more about [me][], [what I do][], or email me 
+Click around to learn more about [me][], [what I do][], read my 
+[curriculum vitae][], or email me 
 at `wagner.greg@gmail.com`.
 
+[curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCV.pdf
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
 [NOAA fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
