@@ -34,7 +34,7 @@ climate and ocean stratification.
 
 ## [FourierFlows.jl][]
 
-With Navid Constantinou, I am developing a code for solving 
+With [Navid Constantinou][], I am developing a code for solving 
 solution of partial different equations in simple domains using
 Fourier pseudospectral methods. The code intends to solve 
 relatively small two-dimensional and modest three-dimensional
@@ -48,3 +48,4 @@ GPUs.
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
+[Navid Constantinou]: www.navidconstantinou.com
