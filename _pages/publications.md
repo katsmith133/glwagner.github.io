@@ -5,7 +5,7 @@ permalink: /publications/
 
 ## Journal publications
 
-[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10] 
+[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]     
 Cesar B Rocha, Gregory L Wagner, and William R Young  
 **Journal of Fluid Mechanics**, *accepted*
 
