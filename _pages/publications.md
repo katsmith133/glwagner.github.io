@@ -5,9 +5,13 @@ permalink: /publications/
 
 ## Journal publications
 
+[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]
+Cesar B Rocha, Gregory L Wagner, and William R Young  
+**Journal of Fluid Mechanics**, *accepted*
+
 [An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]  
 Gregory L Wagner, Gwenael Ferrando and William R Young  
-**Journal of Fluid Mechanics**, *submitted*
+**Journal of Fluid Mechanics**, *2017*
 
 [A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8]  
 Gregory L Wagner and William R Young  
@@ -52,7 +56,8 @@ Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson
 [Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
 [The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
 
-[9]: https://glwagner.github.io/assets/pdf/hydrostaticWaveEqn-arxiv-2017.pdf 
+[10]: https://glwagner.github.io/assets/pdf/stimulatedGeneration-JFM-review.pdf
+[9]: https://glwagner.github.io/assets/pdf/asymptoticInternalTides-JFM-2017.pdf
 [8]: https://glwagner.github.io/assets/pdf/threeComponentModel-JFM-2016.pdf
 [7]: http://tos.org/oceanography/article/a-tale-of-two-spicy-seas
 [6]: http://pubs.rsc.org/-/content/articlelanding/2016/nr/c6nr06603h
