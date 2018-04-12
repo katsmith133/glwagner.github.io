@@ -14,9 +14,9 @@ How does the deep ocean respond to changes in atmospheric
 concentrations of carbon dioxide and heat?
 
 I confront these questions as a theorist, which means I seek a sometimes
-ill-defined, yet scentifically crucial "understanding" of physical
+ill-defined, yet crucial "understanding" of physical
 processes. For example, rather than providing a definitive answer on
-the rate at which the deep ocean changes, I seek to explain *why* the 
+the rate at which the deep ocean changes, I want to explain *why* the 
 deep ocean changes the way it does.
 
 Click around to learn more about [me][], [what I do][], or email me 
