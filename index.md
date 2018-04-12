@@ -11,7 +11,7 @@ ocean physics, and ultimately Earth science. For example,
 what determines the ocean's density structure?
 How does the ocean transport heat from equator to pole?
 How does the deep ocean respond to changes in atmospheric 
-heat content and carbon dioxide concentration?
+concentrations of carbon dioxide and heat?
 
 I confront these questions as a theorist, which means I seek a sometimes
 ill-defined, yet scentifically crucial "understanding" of physical
