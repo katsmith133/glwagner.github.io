@@ -48,4 +48,4 @@ GPUs.
 [Subsurface internal waves]: http://www.livescience.com/42459-huge-ocean-internal-waves-explained.html
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
-[Navid Constantinou]: www.navidconstantinou.com
+[Navid Constantinou]: http://www.navidconstantinou.com
