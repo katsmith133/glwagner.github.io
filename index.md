@@ -23,7 +23,7 @@ Click around to learn more about [me][], [what I do][], read my
 [curriculum vitae][], or email me 
 at `wagner.greg@gmail.com`.
 
-[curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCV.pdf
+[curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
 [NOAA fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
