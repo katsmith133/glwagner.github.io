@@ -12,6 +12,8 @@ We identify a connection between large-scale oceanic strain and net mixing rates
 that implies observations of oceanic turblence must be interpreted in
 a larger context to properly appreciate their effect on net ocean mixing.
 
+I've just submitted a [manuscript on Squeeze Dispersion][] to Geophysical Research Letters.
+
 
 ## [Waves and flow][]
 
@@ -49,3 +51,4 @@ GPUs.
 [quasi-geostrophic eddies]: https://en.wikipedia.org/wiki/Geostrophic_current
 [FourierFlows.jl]: https://github.com/FourierFlows/FourierFlows.jl
 [Navid Constantinou]: http://www.navidconstantinou.com
+[manuscript on Squeeze Dispersion]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf

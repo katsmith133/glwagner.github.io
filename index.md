@@ -19,6 +19,9 @@ processes. For example, rather than providing a definitive answer on
 the rate at which the deep ocean changes, I want to explain *why* the 
 deep ocean changes the way it does.
 
+I've recently submitted a [manuscript][] to Geophysical Research Letters on a newly-identified process called
+'Squeeze dispersion' that affects the deep mixing of carbon and heat.
+
 Click around to learn more about [me][], [what I do][], read my 
 [curriculum vitae][], or email me 
 at `wagner.greg@gmail.com`.
@@ -27,3 +30,4 @@ at `wagner.greg@gmail.com`.
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
 [NOAA fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
+[manuscript]: https://glwagner.github.io/assets/pdf/squeezedispersiondraft.pdf
