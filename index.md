@@ -10,4 +10,7 @@ My email is `katsmith133@gmail.com`.
 
 [Here](https://scholar.google.co.uk/citations?user=5csNr-UAAAAJ&hl=en) is a link to my Google Scholar.
 
+Learn more about me [here][aboutme]
+
 [This]: https://github.com/katsmith133/
+[aboutme]: https://katsmith133.github.io/about/
