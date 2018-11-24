@@ -5,72 +5,19 @@ permalink: /publications/
 
 ## Journal publications
 
-[Oceanic internal waves beneath surface waves][12]
-Gregory L Wagner and Greg Chini
-*in preparation*
+[The O2/N2 Ratio and CO2 Airborne Southern Ocean Study][3]
+Britton B Stephens et al
+**Bulletin of the American Meteorological Society**, *2018*
 
-[Squeeze dispersion: modulation of diapycnal mixing by diapycnal strain][11]
-Gregory L Wagner, Glenn Flierl, Raffaele Ferrari, Gunnar Voet, Glenn S Carter, Matthew H Alford, James B Girton
-**Geophysical Research Letters**, *submitted*
+[Effects of submesoscale turbulence on ocean tracers][2]
+Katherine M Smith, Peter E Hamlington, Baylor Fox-Kemper
+**Journal of Geophysical Research: Oceans**, 2016
 
-[Stimulated generation: extraction of energy from balanced flow by near-inertial waves][10]     
-Cesar B Rocha, Gregory L Wagner, and William R Young  
-**Journal of Fluid Mechanics**, *2018*
+[Examination of turbulent flow effects in rotating detonation engines][1]
+Colin A Towery, Katherine M Smith, Prateek Shrestha, Peter E Hamlington, Marthinus Van Schoor
+**44th AIAA Fluid Dynamics Conference**, *2014*
 
-[An asymptotic model for the propagation of internal tides through quasi-geostrophic flow][9]  
-Gregory L Wagner, Gwenael Ferrando and William R Young  
-**Journal of Fluid Mechanics**, *2017*
-
-[A three-component model for the coupled evolution of near-inertial waves, quasi-geostrophic flow, and the near-inertial second harmonic][8]  
-Gregory L Wagner and William R Young  
-**Journal of Fluid Mechanics**, *2016*
-
-[A tale of two spicy seas][7]  
-Jennifer A MacKinnon *et al.*  
-**Oceanography**, *2016*
-
-[Acoustically propelled nanoshells][6]  
-Fernando Soto, Gregory L Wagner, Victor Garcia-Gradilla, Kyle T Gillespie, Deepak R Lakshmipathy,
-Emil Karshalev, Chava Angell, Yi Chen, Joseph Wang  
-**Nanoscale**, *2016*
-
-[Available potential vorticity and wave-averaged quasi-geostrophic flow][5]  
-Gregory L Wagner and William R Young  
-**Journal of Fluid Mechanics**, *2015*
-
-[Mixing by microorganisms in stratified fluids][4]  
-Gregory L Wagner, Eric Lauga, and William R Young  
-**Journal of Marine Research**, *2014*
-
-[Bubble-Propelled Micromotors for Enhanced Transport of Passive Tracers][3]  
-Jahir Orozco *et al.*  
-**Langmuir**, *2014*
-
-[Crawling scallop: Friction-based locomotion with one degree of freedom][2]  
-Gregory L Wagner and Eric Lauga  
-**Journal of Theoretical Biology**, *2013*
-
-[Specific Charge Control for Micro/Nano-Particle Electrostatic Propulsion][1]  
-Thomas Liu, Gregory Wagner, Alec Gallimore, Brian Gilchrist, Peter Peterson  
-**AIAA/ASME/SAE/ASEE Joint Propulsion Conference**, *2009*
-
-
-## My doctoral dissertation
-
-* [Just the introduction][] (fun!)
-* [The whole thing][] (a large file)
-
-
-[Just the introduction]: https://glwagner.github.io/assets/pdf/glwDissertationIntroduction.pdf 
-[The whole thing]: https://glwagner.github.io/assets/pdf/glwDissertation.pdf 
-
-[10]: https://glwagner.github.io/assets/pdf/stimulatedGeneration-JFM-review.pdf
-[9]: https://glwagner.github.io/assets/pdf/asymptoticInternalTides-JFM-2017.pdf
-[8]: https://glwagner.github.io/assets/pdf/threeComponentModel-JFM-2016.pdf
-[7]: http://tos.org/oceanography/article/a-tale-of-two-spicy-seas
-[6]: http://pubs.rsc.org/-/content/articlelanding/2016/nr/c6nr06603h
-[5]: https://glwagner.github.io/assets/pdf/availablePotentialVorticity-JFM-2015.pdf
-[4]: https://glwagner.github.io/assets/pdf/stratifiedMixingMicros-JMR-2014.pdf
-[3]: https://glwagner.github.io/assets/pdf/mixingBubbles-Langmuir-2014.pdf
-[2]: https://glwagner.github.io/assets/pdf/crawlingScallop-JTheorBiol-2013.pdf
-[1]: https://glwagner.github.io/assets/pdf/electrostaticPropulsion-AIAA-2009.pdf
+[greg3]: https://glwagner.github.io/assets/pdf/mixingBubbles-Langmuir-2014.pdf
+[3]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0206.1
+[2]: https://arc.aiaa.org/doi/abs/10.2514/6.2014-3031
+[1]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011089 

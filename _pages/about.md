@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-  image: /assets/images/headerMontage.jpg
+  image: /assets/images/wales.jpg
 permalink: /about/
 ---
 
@@ -27,4 +27,4 @@ I'm Kat and I love science.
 ### Awards
 
 * Outstanding Mechanical Engineering Research Potential Fellowship (2013--2014)
-* National Science Foundation Scholarship, (2011--2012)
+* National Science Foundation Scholarship (2011--2012)
