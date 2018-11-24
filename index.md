@@ -1,5 +1,5 @@
 ---
-title: Me: human and scientist
+title: Me
 ---
 
 I'm Kat Smith!

@@ -5,71 +5,26 @@ header:
 permalink: /about/
 ---
 
-I love to learn and to teach, to think about past and future, and to 
-run, climb, ski, and explore the landscapes of Earth. 
+I'm Kat and I love science.
 
-As a scientist I study the Earth's ocean, its physics and motion, and
-the infinite entanglement of its eddies, currents, waves, and turbulence.
-
-I'm currently working to understand how the particular patterns and physics
-of [bottom-enhanced ocean turbulence][] modulate the transport of heat,
-carbon and other tracers between the sunlit upper ocean and the abyss.
-I'm funded by a [NOAA Climate & Global Change Postdoctoral Fellowship][]
-and working with [Raffaele Ferrari][] in the Department of Earth,
-Atmospheric, and Planetary Sciences at the Massachusetts Institute of 
-Technology. 
-
-
-## More generally
-
-I was raised in a Boston suburb. After receiving Bachelor's and Master's 
-in Aerospace Engineering from the University of Michigan in 2010, I entered
-a PhD program in the Department of Mechanical and Aerospace Engineering at the 
-University of California, San Diego.  I worked with [Eric Lauga][] on problems
-in locomotion and *very* small-scale fluid dynamics for a few years before 
-refocusing on oceanography with [Bill Young][].
-
-I received my PhD in May of 2016 for a [dissertation][] titled "On the coupled 
-evolution of oceanic internal waves and quasi-geostrophic flow".  In my 
-dissertation I use asymptotic mathematical methods and simple computer 
-simulations to unearth oceanic truths about [ever-changing currents][] 
-and [subsurface internal waves][] with scales between 10 and 200 kilometers.
-
-If I'm not answering email, I may be somewhere beyond the end of the road, 
-exploring this wonderful planet...
-
-## [My life's course (*curriculum vitae* in Latin)][]
+## CV
 
 ### Employment
 
-* since 2016: Postdoctoral Associate, Massachusetts Institute of Technology
-* 2014--2016: Teaching Assistant and Graduate Research Assistant, University of California, San Diego
-* 2009--2010: Research Engineer, Accio Energy
-
-### Teaching
-
-* Fall 2015: Teaching Assistant, Introduction to Mathematical Physics
-* Spring 2015: Teaching Assistant, Introduction to Mathematical Physics 
-* Winter 2014: Teaching assistant, Fluid Dynamics II
+* since 2017: Postdoctoral Research Associatl, University of Cambridge, United Kingdom
+* 2013--2017: Graduate Research Assistant, University of Colorado, Boulder
+* 2014--2017: Instructor, Fluids & Flow Visualization, LEGO Robotics
+* 2013--2014: Graduate Teaching Assistant, University of Colorado, Boulder
+* 2012--2013: Research and Design Scientist I (Thermal Fluid Scientist), Idaho National Laboratory
+* 2011--2012: Mechanical Engineering Design Intern, Wastewater Enterprise, San Francisco Public Utilities Commission
 
 ### Education
 
-* PhD, University of California, San Diego (2016) 
-* MSE, University of Michigan, Ann Arbor (2010) 
-* BSE, University of Michigan, Ann Arbor, *Magna Cum Laude* (2009)  
+* PhD, University of Colorado, Boulder (2017) 
+* MS, University of Colorado, Boulder (2015) 
+* BS, San Francisco State University, *Cum Laude* (2012)
 
 ### Awards
 
-* NOAA Climate and Global Change Postdoctoral Fellowship (2016--2018)  
-* Outstanding Teaching Assistant Award, Dept of Mech and Aero Engineering, UCSD (Spring 2016)  
-* Focht-Powell Graduate Fellowship, UCSD (2010--2013)
-
-[My life's course (*curriculum vitae* in Latin)]: https://glwagner.github.io/assets/pdf/glwCv.pdf
-[ever-changing currents]: http://oceanservice.noaa.gov/facts/eddy.html
-[subsurface internal waves]: https://en.wikipedia.org/wiki/Internal_wave
-[NOAA Climate & Global Change Postdoctoral Fellowship]: http://vsp.ucar.edu/cgc/current-awards-alumni 
-[Raffaele Ferrari]: http://ferrari.mit.edu 
-[Bill Young]: http://pordlabs.ucsd.edu/wryoung/
-[Eric Lauga]: http://www.damtp.cam.ac.uk/user/lauga/
-[dissertation]: https://glwagner.github.io/publications/
-[bottom-enhanced ocean turbulence]: http://www.nature.com/nature/journal/v513/n7517/full/513179a.html
+* Outstanding Mechanical Engineering Research Potential Fellowship (2013--2014)
+* National Science Foundation Scholarship, (2011--2012)
