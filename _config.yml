@@ -11,7 +11,7 @@ title                    : "Science!"
 title_separator          : "-"
 name                     : "Katherine (Kat) Smith"
 description              : "Mostly about ocean physics."
-url                      : "https://katsmith133.github.io/"
+url                      : "https://katsmith133.github.io"
 baseurl                  : # Subpath, if there is one.
 repository               : "katsmith133/katsmith133.github.io"
 teaser                   : "/assets/images/dropletWaves-bottom.jpg"
