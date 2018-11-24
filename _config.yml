@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "glw's science"
+title                    : "Science!"
 title_separator          : "-"
-name                     : "Gregory L. Wagner"
+name                     : "Katherine (Kat) Smith"
 description              : "Mostly about ocean physics."
-url                      : "https://glwagner.github.io"
+url                      : "https://katsmith133.github.io"
 baseurl                  : # Subpath, if there is one.
-repository               : "glwagner/glwagner.github.io"
+repository               : "katsmith133/katsmith133.github.io"
 teaser                   : "/assets/images/dropletWaves-bottom.jpg"
 #breadcrumbs             : false # true, false (default)
 words_per_minute         : 200
@@ -76,12 +76,12 @@ analytics:
 
 # Author information
 author:
-  name             : "Gregory LeClaire Wagner"
+  name             : "Katherine (Kat) Smith"
   avatar           : "/assets/images/me.jpg"
   bio              : "Physicist | Oceanographer | Human"
-  location         : "Cambridge, MA"
+  location         : "Cambridge, UK"
   location_link    : "https://goo.gl/maps/2mQKSt43kJ52"
-  email            : "wagner.greg@gmail.com"
+  email            : "kat.smtih133@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,16 +89,16 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "glwagner"
+  github           : "katsmith133"
   google_plus      :
-  google_scholar   : "dxBXBSUAAAAJ"     # This odd username is somehow brewed up by Google.
+  google_scholar   : "5csNr-UAAAAJ"     # This odd username is somehow brewed up by Google.
   keybase          :
-  instagram        : "gl.wagner"
+  instagram        : "enginerd"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
