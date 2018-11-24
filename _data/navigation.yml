@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Projects"
-    url: https://katsmith133.github.io/projects/
+    url: /projects/
   - title: "Publications"
-    url: https://katsmith133.github.io/publications/
+    url: /publications/
   - title: "About me"
-    url: https://katsmith133.github.io/about/
+    url: /about/
   #- title: "Talks"
   #  url: https://glwagner.github.io/talks/
   #- title: "Quick-Start Guide"
