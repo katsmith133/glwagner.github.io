@@ -10,8 +10,9 @@ and to code a little [Julia][] along the way.
 
 More generally, I seek answers to fundamental questions in fluid 
 dynamics and ocean physics. For example: what sets the density
-structure of the oceanic surface layer? I confront these questions 
-primarily as a theorist, and occasionally draw on computations or observations.
+structure of the oceanic surface layer? 
+I use applied mathematics and computations --- and observations from time to time --- 
+to seek explanations, simplifications, or reduced models for complex oceanic phenomena.
 
 I've recently submitted a [manuscript][] to Geophysical Research Letters on a
 newly-identified process called 'Squeeze dispersion' that affects the deep mixing 
