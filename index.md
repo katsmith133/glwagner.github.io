@@ -2,30 +2,28 @@
 title: Me: human and scientist
 ---
 
-I'm a postdoctoral researcher funded by a [NOAA fellowship][] 
-at the Massachusetts Institute of Technology. I study the physics
-of ocean flows.
+I'm a postdoctoral researcher at MIT in the department of 
+[Earth, Atmospheric, and Planetary Sciences][].
+I'm working with the [Climate Modeling Alliance][] to build a new
+Earth System model. My job is to improve the ocean model,
+and to code a little [Julia][] along the way.
 
-My research is motivated by fundamental questions in fluid dynamics,
-ocean physics, and ultimately Earth science. For example,
-what determines the ocean's density structure?
-How does the ocean transport heat from equator to pole?
-How does the deep ocean respond to changes in atmospheric 
-concentrations of carbon dioxide and heat?
+More generally, I seek answers to fundamental questions in fluid 
+dynamics and ocean physics. For example: what sets the density
+structure of the oceanic surface layer? I confront these questions 
+primarily as a theorist, and occasionally draw on computations or observations.
 
-I confront these questions as a theorist, which means I seek a sometimes
-ill-defined, yet crucial "understanding" of physical
-processes. For example, rather than providing a definitive answer on
-the rate at which the deep ocean changes, I want to explain *why* the 
-deep ocean changes the way it does.
-
-I've recently submitted a [manuscript][] to Geophysical Research Letters on a newly-identified process called
-'Squeeze dispersion' that affects the deep mixing of carbon and heat.
+I've recently submitted a [manuscript][] to Geophysical Research Letters on a
+newly-identified process called 'Squeeze dispersion' that affects the deep mixing 
+of carbon and heat.
 
 Click around to learn more about [me][], [what I do][], read my 
 [curriculum vitae][], or email me 
 at `wagner.greg@gmail.com`.
 
+[Earth, Atmospheric, and Planetary Sciences]: https://eapsweb.mit.edu
+[Climate Modeling Alliance]: https://clima.caltech.edu
+[Julia]: https://julialang.org
 [curriculum vitae]: https://glwagner.github.io/assets/pdf/glwCv.pdf
 [me]: https://glwagner.github.io/about/
 [what I do]: https://glwagner.github.io/projects/
