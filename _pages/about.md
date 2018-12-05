@@ -5,13 +5,13 @@ header:
 permalink: /about/
 ---
 
-I'm Kat and I love science.
+
 
 ## CV
 
 ### Employment
 
-* since 2017: Postdoctoral Research Associatl, University of Cambridge, United Kingdom
+* since 2017: Postdoctoral Research Associate, University of Cambridge, United Kingdom
 * 2013--2017: Graduate Research Assistant, University of Colorado, Boulder
 * 2014--2017: Instructor, Fluids & Flow Visualization, LEGO Robotics
 * 2013--2014: Graduate Teaching Assistant, University of Colorado, Boulder

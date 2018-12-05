@@ -6,7 +6,7 @@ I'm Kat Smith!
 
 Check out [my CV][].
 
-My email is `katsmith133@gmail.com`.
+My email is `kat.smith133@gmail.com`.
 
 [This][] is a link to my github page.
 

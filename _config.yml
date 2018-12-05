@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Science!"
 title_separator          : "-"
-name                     : "Katherine (Kat) Smith"
+name                     : "Kat Smith"
 description              : "Mostly about ocean physics."
 url                      : "https://katsmith133.github.io"
 baseurl                  : # Subpath, if there is one.
@@ -81,7 +81,7 @@ author:
   bio              : "Computational science explorer"
   location         : "Cambridge, UK"
   location_link    : "https://goo.gl/maps/2mQKSt43kJ52"
-  email            : "kat.smtih133@gmail.com"
+  email            : "kat.smith133@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
