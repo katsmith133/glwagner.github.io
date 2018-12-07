@@ -5,14 +5,14 @@ header:
 permalink: /about/
 ---
 
-### Professional
-I am currently a postdoctoral research associate within the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge, UK. I work with [Dr. John Taylor][1] and a group of computational, experimental, and theoretical scientists on developing a better understanding stratified turbulence as a part of the Mathematical Underpinnings of Stratified Turbulence ([MUST][2]) project.
+### Professionally
+I am currently a postdoctoral research associate within the [Department of Applied Mathematics and Theoretical Physics (DAMTP)][DAMTP] at the University of Cambridge, UK. I work with [Dr. John Taylor][JohnTaylor] and a group of computational, experimental, and theoretical scientists on developing a better understanding stratified turbulence as a part of the [Mathematical Underpinnings of Stratified Turbulence (MUST)][MUST] project.
 
-I completed my PhD in August 2017 within the Mechanical Engineering Department at the University of Colorado, Boulder with [Dr. Peter Hamlington][3] as my advisor. My thesis focused on understanding non-linear interactions between upper ocean, small-scale turbulent processes, such as submesoscale currents and wave-driven Langmuir circulations, and climate cycle relevant, reactive biogeochemical tracers, such as carbon dioxide, phytoplankton, and nutrients. I like to say I ''grew-up'' within a turbulent combustion research group, the Turbulence and Energy Systems Lab ([TESLa][3]) and thus have a unique perspective on turbulent reacting system.
+I completed my PhD in August 2017 within the Mechanical Engineering Department at the University of Colorado, Boulder with [Dr. Peter Hamlington][PeterHamlington] as my advisor. My thesis, titled [Effects of Submesoscale Turbulence on Reactive Tracers in the Upper Ocean][Thesis], focused on understanding non-linear interactions between upper ocean, small-scale turbulent processes, such as submesoscale currents and wave-driven Langmuir circulations, and climate cycle relevant, reactive biogeochemical tracers, such as carbon dioxide, phytoplankton, and nutrients. I like to say I ''grew-up'' within a turbulent combustion research group, the [Turbulence and Energy Systems Lab (TESLa)][TESLA] and thus have a unique perspective on turbulent reacting system.
 
 Before attending grad school I was at the Department of Energy's Idaho National Laboratory working on developing code and running simulations of geothermal reserviors. It was here that I really became enamoured with complex environmental fluid flows and using computational methods to explore them.
 
-### Personal
+### Personally
 I was born and raised in the foothills of Eastern San Diego, spent my undergraduate years in the Bay Area, and my graduate years in Colorado. As a result, I love physcial activity, especially if its outdoors. Whether its trail running, climbing, biking, skiing, backpacking, or any number of other activities, and whether its in the mountains, the desert, the forest, or near/in a body of water, I will most likley be stoked about it. Not surprisingly, I am also quite taken with eating food.
 
 ## Abbreviated CV
@@ -47,7 +47,9 @@ I was born and raised in the foothills of Eastern San Diego, spent my undergradu
 * CU Mechanical Engineering Dean's Fellowship (2013--2014)
 * National Science Foundation Scholarship (2011--2012)
 
-[1]: http://www.damtp.cam.ac.uk/user/jrt51/
-[2]: http://www.damtp.cam.ac.uk//research/env/must/content/index.html
-[3]: http://tesla.colorado.edu/Peter-Hamlington
-[4]: http://tesla.colorado.edu/
+[Thesis]: https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1151&context=mcen_gradetds
+[DAMTP]: http://www.damtp.cam.ac.uk/
+[MUST]: http://www.damtp.cam.ac.uk//research/env/must/content/index.html
+[TESLA]: http://tesla.colorado.edu/
+[JohnTaylor]: http://www.damtp.cam.ac.uk/user/jrt51/
+[PeterHamlington]: http://tesla.colorado.edu/Peter-Hamlington
