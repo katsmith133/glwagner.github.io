@@ -1,7 +1,7 @@
 ---
 title: About me
 header:
-  image: /assets/images/banner3.png
+  image: /assets/images/banner2.png
 permalink: /about/
 ---
 
