@@ -30,4 +30,4 @@ While most of my research thus far has focused on gaining understanding of multi
 
 Parameterizations exist for both submesoscale and small scale process, which primarily act upon the momentum and active tracer fields and have been evaluated for their efficacy using various different methods. However, in this context, it is generally assumed that passive tracers have no significant external forcing and chemical reactions are not dominant. Therefore, it is not well known whether these parameterizations can capture the effects of important biophysical interactions that arise when tracer-flow couplings are strong, which is the case at these scales. Determining how strong tracer-flow couplings and multiscale turbulence interactions affect biogeochemical tracers within the upper ocean, how current subgrid scale parameterizations capture (or fail to capture) these effects, and how best to include the uncaptured effects in existing or new parameterizations is a open avenue of research I am exploring.
 
-[1] http://www.damtp.cam.ac.uk//research/env/must/content/index.html
+[1]: http://www.damtp.cam.ac.uk//research/env/must/content/index.html

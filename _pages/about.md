@@ -48,7 +48,7 @@ I was born and raised in the foothills of Eastern San Diego, spent my undergradu
 * CU Mechanical Engineering Dean's Fellowship (2013--2014)
 * National Science Foundation Scholarship (2011--2012)
 
-[1] http://www.damtp.cam.ac.uk/user/jrt51/
-[2] http://www.damtp.cam.ac.uk//research/env/must/content/index.html
-[3] http://tesla.colorado.edu/Peter-Hamlington
-[4] http://tesla.colorado.edu/
+[1]: http://www.damtp.cam.ac.uk/user/jrt51/
+[2]: http://www.damtp.cam.ac.uk//research/env/must/content/index.html
+[3]: http://tesla.colorado.edu/Peter-Hamlington
+[4]: http://tesla.colorado.edu/
