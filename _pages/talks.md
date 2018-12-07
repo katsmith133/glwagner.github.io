@@ -1,5 +1,7 @@
 ---
 title: Recent talks I've given
+header:
+  image: /assets/images/wales.jpg
 permalink: /talks/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Projects
 header:
-  image: /assets/images/katmountain.jpg
+  image: /assets/images/StratTurb.jpg
 permalink: /projects/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Outreach
 header:
-  image: /assets/images/wales.jpg
+  image: /assets/images/icelandhills.jpg
 permalink: /outreach/
 ---
 

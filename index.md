@@ -1,5 +1,7 @@
 ---
 title:
+header:
+  image: /assets/images/anza.jpg
 ---
 
 I am currently a postdoctoral research associate in the [Department of Applied Mathematics and Theoretical Physics (DAMTP)][] at the University of Cambridge. I am working on the [Mathematical Underpinning of Stratified Turbulence (MUST)][] project, soon to be the Stratified Turbulence And Mixing Processes (STAMP) project (such good acronyms, no?). I perform compuational simulations of various forced stratified turbulence set-ups within the context of the ocean and analyze the results to understand their implications for subgrid-scale parameterizations of small-scale processes within Earth System models (ESMs). As a side project, I am also currently working on using simulations to better understanding the role of submesoscale currents in the export of sinking tracers from the ocean mixed layer. 

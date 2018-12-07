@@ -1,5 +1,7 @@
 ---
 title: Publications
+header:
+  image: /assets/images/anza.jpg
 permalink: /publications/
 ---
 
