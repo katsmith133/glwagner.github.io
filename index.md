@@ -15,8 +15,6 @@ To get a more detailed view of my journey, check out the following:
 * My [Publications][]
 * My [Outreach][]
 * My [Curriculum Vitae (CV)][]
-* My [Github Page][]
-* My [Google Scholar Page][]
 
 If you have any questions or want to chat about anything, my email is `kat.smith133@gmail.com`.
 
@@ -27,5 +25,3 @@ If you have any questions or want to chat about anything, my email is `kat.smith
 [Publications]: /publications/
 [Outreach]: /outreach/
 [Curriculum Vitae (CV)]: /assets/pdf/SmithCV.pdf
-[Github Page]: https://github.com/katsmith133/
-[Google Scholar Page]: https://scholar.google.co.uk/citations?user=5csNr-UAAAAJ&hl=en
