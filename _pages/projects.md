@@ -1,5 +1,5 @@
 ---
-title: Projects n' stuff
+title: Projects
 header:
   image: /assets/images/katmountain.jpg
 permalink: /projects/

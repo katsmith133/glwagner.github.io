@@ -20,10 +20,10 @@ If you have any questions or want to chat about anything, my email is `kat.smith
 
 [1] http://www.damtp.cam.ac.uk/
 [2] http://www.damtp.cam.ac.uk//research/env/must/content/index.html
-[aboutme] https://katsmith133.github.io/about/
-[projects] https://katsmith133.github.io/projects/
-[publications] https://katsmith133.github.io/publications/
-[outreach] https://katsmith133.github.io/outreach/
+[aboutme] /about/
+[projects] /projects/
+[publications] /publications/
+[outreach] /outreach/
 [myCV]: /assets/pdf/SmithCV.pdf
 [github]: https://github.com/katsmith133/
 [googlescholar]: https://scholar.google.co.uk/citations?user=5csNr-UAAAAJ&hl=en
