@@ -18,6 +18,8 @@ To get a more detailed view of my journey, check out the following:
 
 If you have any questions or want to chat about anything, my email is `kat.smith133@gmail.com`.
 
+[1] http://www.damtp.cam.ac.uk/
+[2] http://www.damtp.cam.ac.uk//research/env/must/content/index.html
 [aboutme] https://katsmith133.github.io/about/
 [projects] https://katsmith133.github.io/projects/
 [publications] https://katsmith133.github.io/publications/
