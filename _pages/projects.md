@@ -1,7 +1,7 @@
 ---
 title: Projects
 header:
-  image: /assets/images/StratTurb.jpg
+  image: /assets/images/StratTurb.png
 permalink: /projects/
 ---
 
