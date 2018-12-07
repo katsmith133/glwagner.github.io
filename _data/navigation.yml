@@ -1,15 +1,15 @@
 # main links
 main:
+  - title: "About me"
+    url: /about/
   - title: "Projects"
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "About me"
-    url: /about/
-  #- title: "Talks"
-  #  url: https://glwagner.github.io/talks/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Talks"
+    url: /talks/
+  - title: "Outreach"
+    url: /outreach/
   # - title: "About"
   #   url: https://glwagner.github.io/
   # - title: "Publications"
