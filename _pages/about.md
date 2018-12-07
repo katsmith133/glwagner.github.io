@@ -5,11 +5,10 @@ header:
 permalink: /about/
 ---
 
-## About Me
 ### Professional
 I am currently a postdoctoral research associate within the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge, UK. I work with [Dr. John Taylor][1] and a group of computational, experimental, and theoretical scientists on developing a better understanding stratified turbulence as a part of the Mathematical Underpinnings of Stratified Turbulence ([MUST][2]) project.
 
-I completed my PhD in August 2017 within the Mechanical Engineering Department at the University of Colorado, Boulder with [Dr. Peter Hamlington][3] as my advisor. My thesis focused on understanding non-linear interactions between upper ocean, small-scale turbulent processes, such as submesoscale currents and wave-driven Langmuir circulations, and climate cycle relevant, reactive biogeochemical tracers, such as CO$_2$, phytoplankton, and nutrients. I like to say I ``grew-up'' within a turbulent combustion research group, the Turbulence and Energy Systems Lab ([TESLa][3]) and thus have a unique perspective on turbulent reacting system.
+I completed my PhD in August 2017 within the Mechanical Engineering Department at the University of Colorado, Boulder with [Dr. Peter Hamlington][3] as my advisor. My thesis focused on understanding non-linear interactions between upper ocean, small-scale turbulent processes, such as submesoscale currents and wave-driven Langmuir circulations, and climate cycle relevant, reactive biogeochemical tracers, such as carbon dioxide, phytoplankton, and nutrients. I like to say I ''grew-up'' within a turbulent combustion research group, the Turbulence and Energy Systems Lab ([TESLa][3]) and thus have a unique perspective on turbulent reacting system.
 
 Before attending grad school I was at the Department of Energy's Idaho National Laboratory working on developing code and running simulations of geothermal reserviors. It was here that I really became enamoured with complex environmental fluid flows and using computational methods to explore them.
 

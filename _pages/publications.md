@@ -21,7 +21,7 @@ Katherine M Smith, Peter E Hamlington, Baylor Fox-Kemper
 Colin A Towery, Katherine M Smith, Prateek Shrestha, Peter E Hamlington, Marthinus Van Schoor   
 **44th AIAA Fluid Dynamics Conference**, *2014*   
 
-## [Doctoral Thesis][5]
+## [My Doctoral Thesis][5]
 
 [5]: https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1151&context=mcen_gradetds
 [4]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018MS001486

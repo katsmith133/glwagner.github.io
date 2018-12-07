@@ -5,6 +5,4 @@ header:
 permalink: /outreach/
 ---
 
-## Outreach
-
 Coming soon!
