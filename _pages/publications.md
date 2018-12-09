@@ -11,16 +11,16 @@ permalink: /publications/
 Katherine M Smith, Peter E Hamlington, Kyle Niemeyer, Baylor Fox-Kemper, Nicole Lovenduski
 **Journal of Advances in Modeling Earth Systems**, *2018*
 
-[The O2/N2 Ratio and CO2 Airborne Southern Ocean Study][3]  
+[The O2/N2 Ratio and CO2 Airborne Southern Ocean Study][3]
 Britton B Stephens et al.
 **Bulletin of the American Meteorological Society**, *2018*   
 
-[Effects of submesoscale turbulence on ocean tracers][2]  
+[Effects of Submesoscale Turbulence on Ocean Tracers][2]
 Katherine M Smith, Peter E Hamlington, Baylor Fox-Kemper
 **Journal of Geophysical Research: Oceans**, *2016*  
 
-[Examination of turbulent flow effects in rotating detonation engines][1]  
-Colin A Towery, Katherine M Smith, Prateek Shrestha, Peter E Hamlington, Marthinus Van Schoor   
+[Examination of Turbulent Flow Effects in Rotating Detonation Engines][1]
+Colin A Towery, Katherine M Smith, Prateek Shrestha, Peter E Hamlington, Marthinus Van Schoor
 **44th AIAA Fluid Dynamics Conference**, *2014*   
 
 ## My Doctoral Thesis
