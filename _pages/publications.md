@@ -9,21 +9,26 @@ permalink: /publications/
 
 [Effects of Langmuir Turbulence on Upper Ocean Carbonate Chemistry][4]
 Katherine M Smith, Peter E Hamlington, Kyle Niemeyer, Baylor Fox-Kemper, Nicole Lovenduski
+
 **Journal of Advances in Modeling Earth Systems**, *2018*
 
 [The O2/N2 Ratio and CO2 Airborne Southern Ocean Study][3]  
-Britton B Stephens et al.  
+Britton B Stephens et al.
 **Bulletin of the American Meteorological Society**, *2018*   
 
 [Effects of submesoscale turbulence on ocean tracers][2]  
-Katherine M Smith, Peter E Hamlington, Baylor Fox-Kemper  
+Katherine M Smith, Peter E Hamlington, Baylor Fox-Kemper
 **Journal of Geophysical Research: Oceans**, *2016*  
 
 [Examination of turbulent flow effects in rotating detonation engines][1]  
 Colin A Towery, Katherine M Smith, Prateek Shrestha, Peter E Hamlington, Marthinus Van Schoor   
 **44th AIAA Fluid Dynamics Conference**, *2014*   
 
-## [My Doctoral Thesis][5]
+## My Doctoral Thesis
+[Effects of Submesoscale Turbulence on Reactive Tracers in the Upper Ocean][5]
+Katherine M Smith
+
+**Mechanical Engineering Graduate Theses & Dissertations - CU Scholar 151**, *2017*
 
 [5]: https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1151&context=mcen_gradetds
 [4]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018MS001486
