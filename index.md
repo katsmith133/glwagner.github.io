@@ -4,9 +4,9 @@ header:
   image: /assets/images/banner2.png
 ---
 
-I am currently a postdoctoral research associate in the [Department of Applied Mathematics and Theoretical Physics (DAMTP)][] at the University of Cambridge. I am working on the [Mathematical Underpinning of Stratified Turbulence (MUST)][] project, soon to be the Stratified Turbulence And Mixing Processes (STAMP) project (such good acronyms, no?). I perform compuational simulations of various forced stratified turbulence set-ups within the context of the ocean and analyze the results to understand their implications for subgrid-scale parameterizations of small-scale processes within Earth System models (ESMs). As a side project, I am also currently working on using simulations to better understanding the role of submesoscale currents in the export of sinking tracers from the ocean mixed layer. 
+Hey-o! I'm Kat, a computational oceanographer.
 
-Overall, my research career path has been towards understanding small-scale physcial processes within the ocean and how they influence the mixing, transport, and fate of tracers, whether they be active/passive or inert/reactive. The long-term goal is for this better understanding to help in the development of better subgrid scale parameterizations of tracer-flow interactions within ESMs.
+I am currently a postdoctoral researcher in the [Department of Applied Mathematics and Theoretical Physics (DAMTP)][] at the University of Cambridge. I perform direct numerical and large eddy simulations of turbulent ocean processes and small-scale biophyscial interactions. Broadly speaking, my research career path has been towards understanding small-scale turbulent processes within the ocean and how they influence the mixing, transport, and fate of climate relevant tracers, such as phytoplankton, nutrients, carbon dioxide, and particulate organic matter. The long-term goal is to use this understanding to improve existing and/or develop new subgrid scale parameterizations of biophysical interactions within Earth system models.
 
 To get a more detailed view of my journey, check out the following:
 

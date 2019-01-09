@@ -7,6 +7,15 @@ permalink: /publications/
 
 ## Journal publications
 
+A Reduced Order Biogeochemical Flux Model For Use In High-Resolution Multi-Scale Biophysical Simulations
+Katherine M Smith, Peter E Hamlington, Nadia Pinardi, Marco Zavatarelli, *in preparation*
+
+Effects of Submesoscale Processes on Sinking Tracers
+Katherine M Smith, Catherine Vreungdenhil, John R. Taylor, *in preparation*
+
+Turbulence in Forced Stratifed Exchange Flows
+Katherine M Smith, Colm-cille Caulfield, John R. Taylor, *in preparation*
+
 [Effects of Langmuir Turbulence on Upper Ocean Carbonate Chemistry][4]  Katherine M Smith, Peter E Hamlington, Kyle Niemeyer, Baylor Fox-Kemper, Nicole Lovenduski  **Journal of Advances in Modeling Earth Systems**, *2018*
 
 [The O2/N2 Ratio and CO2 Airborne Southern Ocean Study][3]  Britton B Stephens et al.  **Bulletin of the American Meteorological Society**, *2018*   
