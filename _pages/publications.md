@@ -7,14 +7,18 @@ permalink: /publications/
 
 ## Journal publications
 
-A Reduced Order Biogeochemical Flux Model For Use In High-Resolution Multi-Scale Biophysical Simulations.
-Katherine M Smith, Peter E Hamlington, Nadia Pinardi, Marco Zavatarelli, *in preparation*
+Physical Mechanisms of Upper Ocean Mixing in the Arctic. Katherine M Smith, Mathew Maltrud, Luke van Roekel, *in preparation*
 
-Effects of Submesoscale Processes on Sinking Tracers.
-Katherine M Smith, Catherine Vreungdenhil, John R. Taylor, *in preparation*
+How Useful are Earth System Models in Predicting Arctic Food Security? Georgina Gibson, Claire Deal, Olivia Lee, Josie Sam, Nicole Jeffery, Hajo Eicken, and Katherine M Smith, *in preparation*
 
-Turbulence in Forced Stratified Exchange Flows.
-Katherine M Smith, Colm-cille Caulfield, John R. Taylor, *in preparation*
+[BFM17 v1.0: Reduced-Order Biogeochemical Flux Model for Upper Ocean Biophysical Simulations][8].
+Katherine M Smith, Skyler Kern, Peter E Hamlington, Nadia Pinardi, Marco Zavatarelli, Emily F. Klee, Kyle E. Niemeyer, **Geoscientific Model Development**, *2021*
+
+[The Influence of Submesoscales and Vertical Mixing on the Export of Sinking Tracers in Large-Eddy Simulations][7].
+John R. Taylor, Katherine M. Smith, and Catherine A. Vreugdenhil, **Journal of Physical Oceanography**, *2020*
+
+[Turbulence in Forced Stratified Exchange Flows][6].
+Katherine M Smith, Colm-cille Caulfield, John R. Taylor, **Journal of Fluid Mechanics**, *2021*
 
 [Effects of Langmuir Turbulence on Upper Ocean Carbonate Chemistry][4].  Katherine M Smith, Peter E Hamlington, Kyle Niemeyer, Baylor Fox-Kemper, Nicole Lovenduski  **Journal of Advances in Modeling Earth Systems**, *2018*
 
@@ -27,6 +31,9 @@ Katherine M Smith, Colm-cille Caulfield, John R. Taylor, *in preparation*
 ## My Doctoral Thesis
 [Effects of Submesoscale Turbulence on Reactive Tracers in the Upper Ocean][5]. Katherine M Smith  **Mechanical Engineering Graduate Theses & Dissertations - CU Scholar 151**, *2017*
 
+[8]: https://gmd.copernicus.org/preprints/gmd-2020-134/
+[7]: https://journals.ametsoc.org/view/journals/phoc/50/5/jpo-d-19-0267.1.xml
+[6]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/turbulence-in-forced-stratified-shear-flows/16447E3CCB18D2E0788127FEB3019C5A
 [5]: https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1151&context=mcen_gradetds
 [4]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018MS001486
 [3]: https://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0206.1
