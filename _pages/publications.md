@@ -14,11 +14,11 @@ How Useful are Earth System Models in Predicting Arctic Food Security? Georgina 
 [BFM17 v1.0: Reduced-Order Biogeochemical Flux Model for Upper Ocean Biophysical Simulations][8].
 Katherine M Smith, Skyler Kern, Peter E Hamlington, Nadia Pinardi, Marco Zavatarelli, Emily F. Klee, Kyle E. Niemeyer, **Geoscientific Model Development**, *2021*
 
-[The Influence of Submesoscales and Vertical Mixing on the Export of Sinking Tracers in Large-Eddy Simulations][7].
-John R. Taylor, Katherine M. Smith, and Catherine A. Vreugdenhil, **Journal of Physical Oceanography**, *2020*
-
 [Turbulence in Forced Stratified Exchange Flows][6].
 Katherine M Smith, Colm-cille Caulfield, John R. Taylor, **Journal of Fluid Mechanics**, *2021*
+
+[The Influence of Submesoscales and Vertical Mixing on the Export of Sinking Tracers in Large-Eddy Simulations][7].
+John R. Taylor, Katherine M. Smith, and Catherine A. Vreugdenhil, **Journal of Physical Oceanography**, *2020*
 
 [Effects of Langmuir Turbulence on Upper Ocean Carbonate Chemistry][4].  Katherine M Smith, Peter E Hamlington, Kyle Niemeyer, Baylor Fox-Kemper, Nicole Lovenduski  **Journal of Advances in Modeling Earth Systems**, *2018*
 
