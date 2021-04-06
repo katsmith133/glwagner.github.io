@@ -6,7 +6,7 @@ header:
 
 Hey-o! I'm Kat, a computational oceanographer.
 
-I am currently a postdoctoral researcher in the [Department of Applied Mathematics and Theoretical Physics (DAMTP)][] at the University of Cambridge. I perform direct numerical and large eddy simulations of turbulent ocean processes and small-scale biophyscial interactions. Broadly speaking, my research career path has been towards understanding small-scale turbulent processes within the ocean and how they influence the mixing, transport, and fate of climate relevant tracers, such as phytoplankton, nutrients, carbon dioxide, and particulate organic matter. The long-term goal is to use this understanding to improve existing and/or develop new subgrid scale parameterizations of biophysical interactions within Earth system models.
+I am currently a postdoctoral researcher in the [Climate, Ocean, and Sea-ice Modeling (COSIM) Team][] at the Los Alamos National Laboratory. I am currently developing new capabilities within the physical and biogeochemical ocean components of the Department of Energy's Earth system model, called [E3SM][], to improve its performance and accuracy. Addtionally, as a part of the [Interdisciplinary Research for Arctic Coastal Environments (InteRFACE)][] project I am running and analyzing Arctic focused Large Eddy Simulations (LES) to better understand the impacts of sea-ice loss on mixing and stratification in the Arctic Ocean and validate new higher-order mixing parameterizations, as well as, running and analyzing Arctic focused climate simulations, using E3SM, to better understand the impacts of climate change on the food security/sovereignty of Arctic communities.
 
 To get a more detailed view of my journey, check out the following:
 
@@ -18,8 +18,9 @@ To get a more detailed view of my journey, check out the following:
 
 If you have any questions or want to chat about anything, my email is `kat.smith133@gmail.com`.
 
-[Department of Applied Mathematics and Theoretical Physics (DAMTP)]: http://www.damtp.cam.ac.uk/
-[Mathematical Underpinning of Stratified Turbulence (MUST)]: http://www.damtp.cam.ac.uk//research/env/must/content/index.html
+[Climate, Ocean, and Sea-ice Modeling (COSIM) Team]: https://climatemodeling.science.energy.gov/projects/climate-ocean-and-sea-ice-modeling-cosim
+[E3SM]: https://e3sm.org/
+[Interdisciplinary Research for Arctic Coastal Environments (InteRFACE)]: https://climatemodeling.science.energy.gov/projects/interface-interdisciplinary-research-arctic-coastal-environments
 [About Me]: /about/
 [Projects]: /projects/
 [Publications]: /publications/
